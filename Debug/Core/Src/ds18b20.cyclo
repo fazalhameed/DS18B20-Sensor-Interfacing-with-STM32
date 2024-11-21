@@ -1,0 +1,13 @@
+../Core/Src/ds18b20.c:24:9:DS18B20_Start	3
+../Core/Src/ds18b20.c:42:6:DS18B20_StartAll	1
+../Core/Src/ds18b20.c:52:9:DS18B20_Read	11
+../Core/Src/ds18b20.c:116:9:DS18B20_GetResolution	3
+../Core/Src/ds18b20.c:143:9:DS18B20_SetResolution	7
+../Core/Src/ds18b20.c:199:9:DS18B20_Is	2
+../Core/Src/ds18b20.c:206:9:DS18B20_AllDone	1
+../Core/Src/ds18b20.c:211:6:DS18B20_ReadAll	4
+../Core/Src/ds18b20.c:229:6:DS18B20_GetROM	3
+../Core/Src/ds18b20.c:240:6:DS18B20_WriteROM	3
+../Core/Src/ds18b20.c:251:9:DS18B20_Quantity	1
+../Core/Src/ds18b20.c:256:9:DS18B20_GetTemperature	2
+../Core/Src/ds18b20.c:266:6:DS18B20_Init	4
